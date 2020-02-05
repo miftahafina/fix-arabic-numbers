@@ -1,5 +1,5 @@
 # fix-arabic-numbers
-Replace arabic numbers with engilsh ones.
+Replace eastern arabic numeral with western arabic numeral.
 
 
 
